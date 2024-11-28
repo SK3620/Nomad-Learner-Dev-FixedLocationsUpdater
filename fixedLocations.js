@@ -1247,7 +1247,7 @@ export const fixedLocations = {
   },
   // キューバ
   havana: {
-    category: [categories.buildings, categories.culture],
+    category: [categories.buildings],
     nationalFlagImageUrl: nationalFlagImageURLs.cuba,
     location: "ハバナ",
     country: "キューバ",
@@ -1267,7 +1267,7 @@ export const fixedLocations = {
   },
   // ロシア
   moscow: {
-    category: [categories.buildings, categories.cultural],
+    category: [categories.buildings],
     nationalFlagImageUrl: nationalFlagImageURLs.russia,
     location: "モスクワ",
     country: "ロシア",
