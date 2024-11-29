@@ -369,7 +369,7 @@ export const fixedLocations = {
     nationalFlagImageUrl: nationalFlagImageURLs.pakistan,
     location: "フンザ",
     country: "パキスタン",
-    region: "ギルギット・バルチスタン",
+    region: "ギルギット",
     latitude: 35.3408,
     longitude: 74.506,
     imageUrls: [
@@ -1030,8 +1030,8 @@ export const fixedLocations = {
     category: [categories.nature],
     nationalFlagImageUrl: nationalFlagImageURLs.usa,
     location: "ナイアガラの滝",
-    country: "アメリカ・カナダ",
-    region: "ニューヨーク州 / オンタリオ州",
+    country: "アメリカ",
+    region: "ニューヨーク州",
     latitude: 43.0799,
     longitude: -79.0747,
     imageUrls: [
@@ -1049,7 +1049,7 @@ export const fixedLocations = {
     nationalFlagImageUrl: nationalFlagImageURLs.usa,
     location: "ホースシューベンド",
     country: "アメリカ",
-    region: "アリゾナ州ページ",
+    region: "アリゾナ州",
     latitude: 36.8798,
     longitude: -111.5104,
     imageUrls: [
@@ -1065,8 +1065,8 @@ export const fixedLocations = {
     category: [categories.nature],
     nationalFlagImageUrl: nationalFlagImageURLs.usa,
     location: "イエローストーン国立公園",
-    country: "アメリカ合衆国",
-    region: "ワイオミング州, モンタナ州, アイダホ州",
+    country: "アメリカ",
+    region: "ワイオミング州",
     latitude: 44.428,
     longitude: -110.5885,
     imageUrls: [
@@ -1157,8 +1157,8 @@ export const fixedLocations = {
     category: [categories.nature],
     nationalFlagImageUrl: nationalFlagImageURLs.argentina,
     location: "イグアスの滝",
-    country: "アルゼンチン/ブラジル",
-    region: "ミシオネス/パラナ州",
+    country: "アルゼンチン",
+    region: "ミシオネス",
     latitude: -25.695,
     longitude: -54.436,
     imageUrls: [
@@ -1191,7 +1191,7 @@ export const fixedLocations = {
   el_penon_de_guatape: {
     category: [categories.nature],
     nationalFlagImageUrl: nationalFlagImageURLs.colombia,
-    location: "El Peñón de Guatapé",
+    location: "エル・ペニョール・グアタペ",
     country: "コロンビア",
     region: "アンティオキア県",
     latitude: 6.3952,
@@ -1209,7 +1209,7 @@ export const fixedLocations = {
   uyuni_salt_flat: {
     category: [categories.nature],
     nationalFlagImageUrl: nationalFlagImageURLs.bolivia,
-    location: "Uyuni Salt Flat",
+    location: "ウユニ塩湖",
     country: "ボリビア",
     region: "ポトシ県",
     latitude: -20.1338,
